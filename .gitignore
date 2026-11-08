@@ -1,0 +1,21 @@
+# Environment
+.venv/
+.python310/
+.env
+
+# Dataset
+data/
+
+# Model
+*.keras
+*.h5
+best_model/
+
+# Kredensial
+kaggle.json
+
+# Jupyter & Python
+.ipynb_checkpoints/
+__pycache__/
+
+claude.MD
